@@ -25,14 +25,13 @@ def input_until_lucky(lucky_numbers: tuple) -> int:
             count += 1
             if guess_lucky in lucky_numbers:
                 return count
-        except ValueError as e :
-            print('invalid input', e)
+        except ValueError as e:
+            print(f'invalid input {e}')
 
 
-amount = int(input('chose the amount of lucky numbers: '))
+amount = int(input('choose the amount of lucky numbers: '))
 lucky_numbers: tuple = get_lucky_numbers(amount)
-print(lucky_numbers)
-print(input_until_lucky(lucky_numbers))
-print(lucky_numbers)
+print(f'you tried- {input_until_lucky(lucky_numbers)} times')
+print(f'your lucky number is: {lucky_numbers}')
 
 
