@@ -1,6 +1,11 @@
 import random
 
 def get_lucky_numbers(amount: int) -> tuple[int]:
+    """
+    return a tuple of random numbers as - the lucky numbers
+    :param amount: amount of numbers
+    :return: tuple of random numbers
+    """
     rand_num = []
     for _ in range(amount):
         rand_num.append(random.randint(1, 100))
@@ -9,6 +14,11 @@ def get_lucky_numbers(amount: int) -> tuple[int]:
 
 
 def input_until_lucky(lucky_numbers: tuple) -> int:
+    """
+    return amount of inputs entering hitting correct lucky number
+    :param lucky_numbers:
+    :return:
+    """
     try:
         count: int = 0
         while True:
@@ -18,7 +28,7 @@ def input_until_lucky(lucky_numbers: tuple) -> int:
                 return count
     except:
         input_until_lucky(lucky_numbers)
-        return count
+
 
 
 amount = int(input('chose the amount of lucky numbers: '))

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b137e67-1914-40b5-9c01-3d894b53708a" name="Changes" comment="commit 1">
+    <list default="true" id="8b137e67-1914-40b5-9c01-3d894b53708a" name="Changes" comment="commit 2">
       <change beforePath="$PROJECT_DIR$/exe._bonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe._bonus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe.py" afterDir="false" />
     </list>
@@ -53,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.exe._bonus.executor": "Run",
     "Python.exe.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -87,12 +88,21 @@
       <option name="project" value="LOCAL‎" />
       <updated>1773235630421</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="commit 2">
+      <option name="closed" value="true" />
+      <created>1773236862207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1773236862207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -104,12 +114,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/exe.py</url>
-          <line>23</line>
+          <line>33</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/exe.py</url>
-          <line>26</line>
+          <line>36</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
