@@ -14,9 +14,9 @@ def get_lucky_numbers(amount: int) -> tuple[int]:
 
 def input_until_lucky(lucky_numbers: tuple) -> int:
     """
-      return amount of inputs entering hitting correct lucky number
-      :param lucky_numbers:
-      :return:
+      maching inputed number to a tuple of ints (lucky numbers)
+      :param guess_lucky: input a guessed number
+      :return: amount of inputs
       """
     count: int = 0
     while True:

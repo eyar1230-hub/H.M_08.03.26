@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b137e67-1914-40b5-9c01-3d894b53708a" name="Changes" comment="commit 2">
+    <list default="true" id="8b137e67-1914-40b5-9c01-3d894b53708a" name="Changes" comment="commit 3">
       <change beforePath="$PROJECT_DIR$/exe._bonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe._bonus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe.py" afterDir="false" />
     </list>
@@ -96,13 +96,22 @@
       <option name="project" value="LOCAL‎" />
       <updated>1773236862207</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎-00003" summary="commit 3">
+      <option name="closed" value="true" />
+      <created>1773244487662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1773244487662</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
